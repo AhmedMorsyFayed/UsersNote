@@ -1,0 +1,15 @@
+#MainPage {
+  height: 100%;
+  margin: 0;
+  background: url('/images/Mainbaground.png') no-repeat center center fixed;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  width:100%;
+
+}
+
+
+
+
